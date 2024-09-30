@@ -8,4 +8,4 @@ eleventyNavigation:
   key: Market Pulse
   order: 2
 ---
-\#
+The latest news in the copper industry, powered by market intelligence.
